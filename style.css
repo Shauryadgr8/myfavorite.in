@@ -1,0 +1,57 @@
+body {
+
+    text-align: center;
+}
+
+#pic {
+    height: 150px;
+    width: 300px;
+    border-radius: 50px;
+}
+
+.line {
+    height: 6px;
+    width: 70px;
+    background-color: #01106e;
+    margin: 8px auto;
+}
+
+.links {
+    float: left;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 9px;
+    padding-left: 9px;
+    font-family: 'WindSong', cursive;
+}
+
+.links:hover {
+    background-color: deeppink;
+    font-size: 23px;
+}
+
+.menu {
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+}
+
+#hobby {
+    font-family: 'MonteCarlo', cursive;
+}
+
+#sec2 {
+    padding-right: 150px;
+    padding-left: 150px;
+}
+
+#welc {
+    background: linear-gradient(#e3a1e2 0%, #a9cad9 100%);
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
